@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.imageContainer {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td.column {
+  width: 200px;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
